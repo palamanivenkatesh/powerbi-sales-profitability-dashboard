@@ -60,3 +60,7 @@ The dashboard analyzes:
 ## Project Type
 
 Personal Portfolio Project
+## Dashboard Preview
+
+![Power BI Dashboard](powerbi-dashboard.png)
+
