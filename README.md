@@ -63,5 +63,8 @@ Personal Portfolio Project
 ## Dashboard Preview
 
 ![Power BI Dashboard](powerbi-dashboard.png)
+## Dashboard Preview
+
+![Power BI Dashboard](powerbi-Detailed-Analysis-dashboard.png)
 
 
