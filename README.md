@@ -62,5 +62,5 @@ The dashboard analyzes:
 Personal Portfolio Project
 ## Dashboard Preview
 
-![Power BI Dashboard](powerbi-dashboard.png)
+![Power BI Dashboard](powerbi dashboard.png)
 
